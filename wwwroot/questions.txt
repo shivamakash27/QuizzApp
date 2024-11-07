@@ -1,0 +1,30 @@
+﻿What is 2 + 2?
+3,4,5,6
+4
+What is the capital of France?
+Paris,Berlin,Madrid,Rome
+Paris
+What is the largest ocean on Earth?
+Atlantic,Indian,Arctic,Pacific
+Pacific
+What is the chemical symbol for water?
+H2O,CO2,O2,N2
+H2O
+What is the tallest mountain in the world?
+K2,Kangchenjunga,Mount Everest,Lhotse
+Mount Everest
+What year did the Titanic sink?
+1912,1905,1920,1898
+1912
+What is the currency of Japan?
+Yen,Won,Dollar,Peso
+Yen
+Who wrote "Romeo and Juliet"?
+Shakespeare,Dickens,Mark Twain,Hemingway
+Shakespeare
+What is the boiling point of water?
+100°C,90°C,120°C,80°C
+100°C
+What planet is known as the Red Planet?
+Earth,Mars,Jupiter,Venus
+Mars
