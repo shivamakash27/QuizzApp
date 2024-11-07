@@ -1,2 +1,2 @@
 # QuizzApp
-QuizzApp using web form
+QuizzApp using web application
